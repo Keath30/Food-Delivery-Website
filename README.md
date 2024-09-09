@@ -1,12 +1,34 @@
-<<<<<<< HEAD
+
 # Food-Delivery-Website
 =======
-# React + Vite
+This is a web-based food delivery application that allows users to browse and order from a variety of food options.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- Wide range of menu items
+- Categorize food items (e.g., desserts, noodles, cakes, etc.)
+- Place orders
+- User sign-up and login options
 
-Currently, two official plugins are available:
+<br><br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 73f0228 (Initial commit)
+<img src="src/assets/Image1.JPG" alt="Description" width="900">
+<hr>
+
+<img src="src/assets/Image2.JPG" alt="Description" width="900">
+<hr>
+
+<img src="src/assets/Image3.JPG" alt="Description" width="900">
+<hr>
+
+<img src="src/assets/Image4.JPG" alt="Description" width="900" >
+<hr>
+
+<img src="src/assets/Image5.JPG" alt="Description" width="900" >
+<hr>
+
+<img src="src/assets/Image6.JPG" alt="Description" width="900" >
+
+
+
+
+
